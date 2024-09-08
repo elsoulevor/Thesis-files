@@ -1,0 +1,111 @@
+\contentsline {paragraph}{}{3}{section*.1}%
+\contentsline {paragraph}{}{3}{section*.2}%
+\contentsline {paragraph}{}{3}{section*.3}%
+\contentsline {paragraph}{}{3}{section*.4}%
+\contentsline {section}{List of Figures}{5}{section*.7}%
+\contentsline {section}{\numberline {1}Introduction}{6}{section.1}%
+\contentsline {paragraph}{}{6}{section*.8}%
+\contentsline {paragraph}{}{6}{section*.9}%
+\contentsline {paragraph}{}{6}{section*.10}%
+\contentsline {paragraph}{}{7}{section*.11}%
+\contentsline {paragraph}{}{7}{section*.12}%
+\contentsline {paragraph}{}{7}{section*.13}%
+\contentsline {paragraph}{}{8}{section*.14}%
+\contentsline {paragraph}{}{8}{section*.15}%
+\contentsline {paragraph}{}{8}{section*.16}%
+\contentsline {section}{\numberline {2}Literature review}{9}{section.2}%
+\contentsline {paragraph}{}{9}{section*.17}%
+\contentsline {subsection}{\numberline {2.1}Tactile graphics for visual impairments}{9}{subsection.2.1}%
+\contentsline {paragraph}{}{9}{section*.18}%
+\contentsline {paragraph}{}{9}{section*.19}%
+\contentsline {subsection}{\numberline {2.2}Generative AI for image interpretation and depth Estimation}{10}{subsection.2.2}%
+\contentsline {paragraph}{}{10}{section*.20}%
+\contentsline {paragraph}{}{11}{section*.21}%
+\contentsline {subsection}{\numberline {2.3}3D printing for accessibility}{11}{subsection.2.3}%
+\contentsline {paragraph}{}{11}{section*.22}%
+\contentsline {paragraph}{}{11}{section*.23}%
+\contentsline {paragraph}{}{12}{section*.24}%
+\contentsline {paragraph}{}{12}{section*.25}%
+\contentsline {subsection}{\numberline {2.4}Integration of AI and 3D Printing for tactile graphics}{12}{subsection.2.4}%
+\contentsline {paragraph}{}{12}{section*.26}%
+\contentsline {paragraph}{}{13}{section*.27}%
+\contentsline {section}{\numberline {3}Proposed method}{14}{section.3}%
+\contentsline {paragraph}{}{14}{section*.28}%
+\contentsline {subsection}{\numberline {3.1}Overview of the proposed method}{14}{subsection.3.1}%
+\contentsline {paragraph}{}{14}{section*.29}%
+\contentsline {subsection}{\numberline {3.2}Depth estimation network}{14}{subsection.3.2}%
+\contentsline {paragraph}{}{14}{section*.31}%
+\contentsline {subsubsection}{\numberline {3.2.1}Marigold depth estimation model}{14}{subsubsection.3.2.1}%
+\contentsline {paragraph}{}{14}{section*.32}%
+\contentsline {paragraph}{}{16}{section*.33}%
+\contentsline {paragraph}{Fine-tuning}{16}{section*.34}%
+\contentsline {subsubsection}{\numberline {3.2.2}Self-Reference Distillation}{16}{subsubsection.3.2.2}%
+\contentsline {paragraph}{}{16}{section*.36}%
+\contentsline {paragraph}{}{17}{section*.38}%
+\contentsline {subsection}{\numberline {3.3}3D reconstruction framework}{18}{subsection.3.3}%
+\contentsline {paragraph}{}{18}{section*.40}%
+\contentsline {paragraph}{Depth Map Interpretation}{19}{section*.41}%
+\contentsline {paragraph}{}{20}{section*.43}%
+\contentsline {paragraph}{Point Cloud Generation}{21}{section*.45}%
+\contentsline {paragraph}{}{21}{section*.46}%
+\contentsline {paragraph}{Mesh Construction}{22}{section*.47}%
+\contentsline {paragraph}{}{22}{section*.48}%
+\contentsline {paragraph}{}{23}{section*.49}%
+\contentsline {paragraph}{}{24}{section*.51}%
+\contentsline {paragraph}{3D Printing Preparation}{25}{section*.52}%
+\contentsline {subsection}{\numberline {3.4}Conclusion}{25}{subsection.3.4}%
+\contentsline {paragraph}{}{25}{section*.53}%
+\contentsline {paragraph}{}{25}{section*.54}%
+\contentsline {paragraph}{}{26}{section*.55}%
+\contentsline {section}{\numberline {4}Results}{27}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Self-Reference Distillation}{27}{subsection.4.1}%
+\contentsline {paragraph}{}{27}{section*.56}%
+\contentsline {paragraph}{}{27}{section*.57}%
+\contentsline {paragraph}{}{27}{section*.59}%
+\contentsline {paragraph}{}{27}{section*.60}%
+\contentsline {paragraph}{}{28}{section*.62}%
+\contentsline {paragraph}{Failures}{28}{section*.64}%
+\contentsline {subsection}{\numberline {4.2}Marigold}{29}{subsection.4.2}%
+\contentsline {paragraph}{}{29}{section*.66}%
+\contentsline {paragraph}{}{30}{section*.67}%
+\contentsline {paragraph}{}{30}{section*.68}%
+\contentsline {paragraph}{}{30}{section*.69}%
+\contentsline {subsection}{\numberline {4.3}Comparing SRD and Marigold}{31}{subsection.4.3}%
+\contentsline {paragraph}{}{31}{section*.72}%
+\contentsline {paragraph}{}{31}{section*.73}%
+\contentsline {subsection}{\numberline {4.4}Complexity of the process}{32}{subsection.4.4}%
+\contentsline {paragraph}{}{32}{section*.74}%
+\contentsline {section}{\numberline {5}Discussion and continuation}{34}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Further work}{34}{subsection.5.1}%
+\contentsline {paragraph}{Sky segmentation}{34}{section*.77}%
+\contentsline {paragraph}{Relative depth}{34}{section*.79}%
+\contentsline {subsection}{\numberline {5.2}Evaluation method}{35}{subsection.5.2}%
+\contentsline {paragraph}{}{35}{section*.81}%
+\contentsline {paragraph}{Qualitative Visual Inspection}{36}{section*.82}%
+\contentsline {paragraph}{Synthetic Data Evaluation}{36}{section*.83}%
+\contentsline {paragraph}{Simulated Environment Testing}{36}{section*.84}%
+\contentsline {section}{\numberline {6}Conclusion}{37}{section.6}%
+\contentsline {paragraph}{}{37}{section*.85}%
+\contentsline {paragraph}{}{37}{section*.86}%
+\contentsline {paragraph}{}{37}{section*.87}%
+\contentsline {paragraph}{}{38}{section*.88}%
+\contentsline {section}{\numberline {7}Bibliography}{39}{section.7}%
+\contentsline {paragraph}{[WHO]}{39}{section*.89}%
+\contentsline {paragraph}{[NM]}{39}{section*.90}%
+\contentsline {paragraph}{[MBC22]}{39}{section*.91}%
+\contentsline {paragraph}{[SeeAI]}{39}{section*.92}%
+\contentsline {paragraph}{[Ken93]}{39}{section*.93}%
+\contentsline {paragraph}{[LWX08]}{39}{section*.94}%
+\contentsline {paragraph}{[LM08]}{39}{section*.95}%
+\contentsline {paragraph}{[GPM14]}{39}{section*.96}%
+\contentsline {paragraph}{[GMR18]}{39}{section*.97}%
+\contentsline {paragraph}{[BKH14]}{40}{section*.98}%
+\contentsline {paragraph}{[GP18]}{40}{section*.99}%
+\contentsline {paragraph}{[PCS24]}{40}{section*.100}%
+\contentsline {paragraph}{[RLH20]}{40}{section*.101}%
+\contentsline {paragraph}{[Hel00]}{40}{section*.102}%
+\contentsline {paragraph}{[KOH24]}{40}{section*.103}%
+\contentsline {paragraph}{[EPF14]}{40}{section*.104}%
+\contentsline {paragraph}{[RNR12]}{40}{section*.105}%
+\contentsline {paragraph}{[LLS23]}{41}{section*.106}%
+\contentsline {section}{Appendix}{42}{section*.106}%
